@@ -41,23 +41,4 @@ A modern, interactive analytics dashboard built with **Next.js**, **TypeScript**
 - **NewsAPI.org**
 - **Placeholder Finance API**
 
----
 
-## 🔑 Environment Variables
-
-Create a `.env.local` file:
-
-```env
-NEXT_PUBLIC_WEATHER_API_KEY=your_weather_api_key
-NEXT_PUBLIC_NEWS_API_KEY=your_news_api_key
-NEXT_PUBLIC_FINANCE_API_KEY=your_finance_api_key
-
-# 1. Clone the repo
-git clone https://github.com/ajaykumar-21/Comprehensive-Analytics-Dashboard.git
-cd analytics-dashboard
-
-# 2. Install dependencies
-npm install
-
-# 3. Run the development server
-npm run dev
